@@ -1,1 +1,1 @@
-console.log("Henlo stinky");
+console.log("Henlo");
